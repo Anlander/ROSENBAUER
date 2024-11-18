@@ -10,7 +10,7 @@ export default function Home() {
         SES PROTECTION – DIN SVENSKA LEVERANTÖR AV BRANDBEKÄMPNINGSUTRUSTNING
         FRÅN ROSENBAUER
       </h1>
-      <div className="flex flex-col gap-10 lg:w-[60%] text-center text-[22px]">
+      <div className="flex flex-col gap-10 lg:w-[50%] text-center text-[22px]">
         <p>
           SES Protection är den svenska leverantören av
           brandbekämpningsutrustning från Rosenbauer. I sortimentet finns
